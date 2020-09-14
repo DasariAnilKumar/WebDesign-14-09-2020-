@@ -1,4 +1,4 @@
 # WebDesign-14-09-2020-
-#This is big heading
+# This is big heading
 
-#######Small Heading
+###### Small Heading
